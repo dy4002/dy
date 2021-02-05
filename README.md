@@ -1,2 +1,0 @@
-# lzy.github.com
- test
